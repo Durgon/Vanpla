@@ -490,6 +490,7 @@
     "Question": " Can you name that Mobile Suit?",
     "Answer": " Gundam ",
     "ImageUrl": " https://imgur.com/aSUH6BD.jpg "
+<<<<<<< HEAD
   },
   {
     "Category": " Gundam",
@@ -577,5 +578,7 @@
     "Question": " Can you name that Mobile Suit?",
     "Answer": " Zaku Half Cannon ",
     "ImageUrl": " https://i.imgur.com/Jo7YePZ.png "
+=======
+>>>>>>> 3a4cba2e38d7805cfb97deb48a467c870d964500
   }
 ]
