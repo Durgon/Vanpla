@@ -1,4 +1,4 @@
 # Vanpla
-Nadeko mods 
+Nadekobot mods
 
-Misc files for my Nadeko bot on my Discord server
+Miscellaneous files for Nadekobot on my Discord server
